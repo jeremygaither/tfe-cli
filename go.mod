@@ -4,8 +4,7 @@ go 1.14
 
 require (
 	github.com/hashicorp/go-retryablehttp v0.6.7 // indirect
-	github.com/hashicorp/go-slug v0.4.3 // indirect
-	github.com/hashicorp/go-tfe v0.13.2
+	github.com/hashicorp/go-tfe v0.18.0
 	github.com/magefile/mage v1.11.0
 	github.com/sirupsen/logrus v1.8.1
 	github.com/spf13/cobra v1.1.3
